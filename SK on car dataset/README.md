@@ -1,12 +1,12 @@
 This file contains the python program to compute the skyline set on a 
 car data set given in [1]. The attributes of the data set are:
 
--buying price: vhigh, high, med, low. 
--maintenance cost: vhigh, high, med, low. 
--number of doors: 2, 3, 4, 5more. 
--persons: 2, 4, more. 
--lug_boot: small, med, big. 
--safety: low, med, high.
+- buying price: vhigh, high, med, low. 
+- maintenance cost: vhigh, high, med, low. 
+- number of doors: 2, 3, 4, 5more. 
+- persons: 2, 4, more. 
+- lug_boot: small, med, big. 
+- safety: low, med, high.
 
 The dominance relationship is built in the following way:
 An object(x) dominates another object(y) if has equal or grater safety, luggage size, capacity, number of doors
