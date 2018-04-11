@@ -12,17 +12,8 @@ The dominance relationship is built in the following way:
 An object(x) dominates another object(y) if has equal or grater safety, luggage size, capacity, number of doors
 and smaller buying price and mentainance score.
 
-x dominates y if:
-	x.buy_price < y.buy_price AND
-    x.maint_price < y.maint_price AND
-    x.num_doors >= y.num_doors AND
-    x.capacity >= y.capacity AND
-    x.size_lug >= y.size_lug AND
-    x.safety >= y.safety 
-
 The skyline set is retrieved using the Naive algorithm and it can be seen it consists of 756 objects
 out of 1728 in the dataset. So it is almost 44% of the dataset.
-
 
 [1] UCI Machine Learning Repository - Car Evaluation Data Set
 https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
