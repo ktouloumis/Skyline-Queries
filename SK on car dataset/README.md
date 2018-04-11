@@ -11,7 +11,7 @@ car data set given in [1]. The attributes of the data set are:
 The dominance relationship is built in the following way:
 An object(x) dominates another object(y) if has:
 - equal or grater safety, luggage size, capacity, number of doors
-- smaller buying price and mentainance score.
+- smaller buying price and mentainance cost.
 
 The skyline set is retrieved using the Naive algorithm and it can be seen it consists of 756 objects
 out of 1728 in the dataset. So it is almost 44% of the dataset.
