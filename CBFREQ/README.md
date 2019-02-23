@@ -1,4 +1,4 @@
-#python programs for the evaluation of the CBFREQ algorithm
+# Python programs for the evaluation of the CBFREQ algorithm
 
 plottimes.py: The evaluation summarization effectiveness CBFREQ vs DBR
 
