@@ -1,3 +1,4 @@
 # Programs to perform statistical analysis
-1 file: desc1
-2 file: desc2
+barplots.py: python program to plot results from case study
+file2:desc2
+file3:desc3
