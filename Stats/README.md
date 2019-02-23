@@ -2,4 +2,5 @@
 barplots.py: python program to plot results from case study
 
 plotsk: python program to perform the evaluation of summarization effectiveness on CBFREQ
-file3:desc3
+
+plottimes.py: plot times of KDFREQ vs DBFREQ
